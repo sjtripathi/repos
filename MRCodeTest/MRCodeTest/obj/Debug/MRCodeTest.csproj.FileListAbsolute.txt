@@ -1,0 +1,6 @@
+C:\samples\MRCodeTest\MRCodeTest\bin\Debug\MRCodeTest.exe.config
+C:\samples\MRCodeTest\MRCodeTest\obj\Debug\MRCodeTest.csprojResolveAssemblyReference.cache
+C:\samples\MRCodeTest\MRCodeTest\bin\Debug\MRCodeTest.exe
+C:\samples\MRCodeTest\MRCodeTest\bin\Debug\MRCodeTest.pdb
+C:\samples\MRCodeTest\MRCodeTest\obj\Debug\MRCodeTest.exe
+C:\samples\MRCodeTest\MRCodeTest\obj\Debug\MRCodeTest.pdb
